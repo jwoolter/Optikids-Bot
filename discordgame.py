@@ -5,7 +5,7 @@ from discord import channel
 import datetime
 import random
 #defines discord token for bot authorization and connection
-TOKEN2 = "ODIxNTYzMDE3ODI1MDkxNTk0.YFFiLw.rl6KP39uQKwZe_l71JBqvVOTHYI"
+TOKEN2 = "use your own token"
 client = discord.Client()
 start_time = time.time()
 died_response = [
